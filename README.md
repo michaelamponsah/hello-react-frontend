@@ -69,7 +69,7 @@ Hello React Front-End holds the front-end an app that displays random greetings
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Back-End Link <a name="back-end"></a>
-[Hello Rails](https://github.com/michaelamponsah/hello-rails-backend)
+[Hello Rails](https://github.com/michaelamponsah/hello-railsbackend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +148,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/michaelamponsah/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/michaelamponsah/hello-react-frontend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
